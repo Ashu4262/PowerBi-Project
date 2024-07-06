@@ -1,6 +1,6 @@
 # Prime Video Analysis Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/4c79aff1-4229-4ad0-a9c7-373fff77f6bc/ReportSection?bookmarkGuid=b6067032-4b36-43e3-81a3-6793330b3471&bookmarkUsage=1&ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&portalSessionId=4adc70c2-a9d1-4495-9d75-580ff672a3c1&fromEntryPoint=export
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/4c79aff1-4229-4ad0-a9c7-373fff77f6bc/ReportSection?experience=power-bi
 
 ## Problem Statement
 
