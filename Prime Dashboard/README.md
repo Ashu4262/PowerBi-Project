@@ -1,6 +1,6 @@
 # Prime Video Analysis Dashboard
 
-### Dashboard Link : https://app.powerbi.com/links/sSkvVhXVJL?ctid=a3fb180d-23c4-44c9-a241-c78109202bd3&pbi_source=linkShare
+### Dashboard Link : ![Screenshot 2024-07-06 212440](https://github.com/Ashu4262/PowerBi-Project/assets/136991097/c0ee2158-a6ba-4160-85a5-086bc3811ca0)
 
 ## Problem Statement
 
